@@ -9,3 +9,4 @@ Features:
   3. CRUD Operations
   4. MVC frameworks used
   5. MongoDB as database
+ > src directory contains all frontend (React.js) material
