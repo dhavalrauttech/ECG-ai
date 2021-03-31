@@ -22,7 +22,8 @@ Features:
 ![user dashboard](https://user-images.githubusercontent.com/55867003/113105677-7a64cd00-921f-11eb-997c-8c6896bc869c.png)
 > about us snippet:
 ![about us](https://user-images.githubusercontent.com/55867003/113105704-83559e80-921f-11eb-800b-9ec4132b31fe.png)
->ECG dashboard snippet:![ecg dashboard](https://user-images.githubusercontent.com/55867003/113105731-8d779d00-921f-11eb-8f12-36d6905b8d42.png)
+>Start ECG test snippet:![start ECG test](https://user-images.githubusercontent.com/55867003/113106339-48079f80-9220-11eb-80a3-9b6e02f64485.png)
+
 >ECG reports dashboard: ![ecg dashboard](https://user-images.githubusercontent.com/55867003/113106107-fd862300-921f-11eb-8a20-f2dc1cbef9a5.png)
 
 
