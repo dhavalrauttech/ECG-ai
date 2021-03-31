@@ -14,8 +14,15 @@ Features:
 ![login](https://user-images.githubusercontent.com/55867003/113104886-a29ffc00-921e-11eb-9a43-95198e27b233.png)
 > index page snippet:
 ![index page](https://user-images.githubusercontent.com/55867003/113105315-15a97280-921f-11eb-90cc-b31fe65d4c01.png)
-> New Blog upload
+> New Blog upload snippet:
 ![add new blog](https://user-images.githubusercontent.com/55867003/113105400-2a860600-921f-11eb-8c51-33e571c5164e.png)
-> Blog
+> Blog snippet:
 ![blogs](https://user-images.githubusercontent.com/55867003/113105444-35409b00-921f-11eb-91b2-2d2a50c8826e.png)
+> User profile snippet:
+![user dashboard](https://user-images.githubusercontent.com/55867003/113105677-7a64cd00-921f-11eb-997c-8c6896bc869c.png)
+> about us snippet:
+![about us](https://user-images.githubusercontent.com/55867003/113105704-83559e80-921f-11eb-800b-9ec4132b31fe.png)
+>ECG dashboard snippet:![ecg dashboard](https://user-images.githubusercontent.com/55867003/113105731-8d779d00-921f-11eb-8f12-36d6905b8d42.png)
+>ECG reports dashboard: ![ecg dashboard](https://user-images.githubusercontent.com/55867003/113106107-fd862300-921f-11eb-8a20-f2dc1cbef9a5.png)
+
 
