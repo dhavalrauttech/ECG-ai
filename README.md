@@ -10,3 +10,5 @@ Features:
   4. MVC frameworks used
   5. MongoDB as database
  > src directory contains all frontend (React.js) material
+ Login page snippet:
+![login](https://user-images.githubusercontent.com/55867003/113104886-a29ffc00-921e-11eb-9a43-95198e27b233.png)
