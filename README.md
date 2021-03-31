@@ -9,17 +9,7 @@ Features:
   3. CRUD Operations
   4. MVC frameworks used
   5. MongoDB as database
-Technologies used:
-  1. React.js
-  2. Express.js
-  3. Node.js
-  4. HTML
-  5. CSS
-  6. Bootstrap 4
-  7. Java-script
-  8. IOT
-  9. Machine Learning
-  10. Flask
+  6. Technologies used:React.js, Express.js, Node.js, HTML, CSS, Bootstrap 4, Javascript, IoT, Machine Learning 
   
  > Login page snippet:
 ![login](https://user-images.githubusercontent.com/55867003/113104886-a29ffc00-921e-11eb-9a43-95198e27b233.png)
