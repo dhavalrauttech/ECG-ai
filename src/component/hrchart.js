@@ -49,7 +49,7 @@ componentDidMount() {
  var HrChartData =   this.state.allHrchart.reverse().map( ECGData => { 
 						var link = '/chart/'+ECGData._id; 
                  return(<a className="chart-hover " href={link}>  
-                 	<tr className="row">
+                 		<tr className="row">
 				              <td className='text-center font-weight-bold col-3'>{Moment(ECGData.createdAt).format("DD-MM-YYYY LTS")}</td>
 				              <td className='text-center font-weight-bold col-3'>{ECGData.username}</td>
 				             
@@ -58,7 +58,7 @@ componentDidMount() {
 				               
 				              
 				            </tr>
-				            </a>);
+				    </a>);
              });
 
 
@@ -92,7 +92,7 @@ return(
 						</tbody>
 				    </table>
 				</div>
-				</div>
+			     </div>
 			</div>
 			);
 }
