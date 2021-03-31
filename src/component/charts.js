@@ -138,23 +138,22 @@ class Charts extends Component {
     	<div className='container shadow p-2 bg-white mar' style={{ borderRadius: '25px'}}>
  
     	 <div className='row m-1 my-sm-5 my-md-1 p-2 '> 
-    	  <h6 className='col-md-6 col-sm-12 text-muted text-small pl-2 p-1text-left align-items-center'> Name:<span className='text-dark ml-3 text-danger'>{this.state.ecg_username}</span></h6>
+    	  	<h6 className='col-md-6 col-sm-12 text-muted text-small pl-2 p-1text-left align-items-center'> Name:<span className='text-dark ml-3 text-danger'>{this.state.ecg_username}</span></h6>
     		
-    	  <h6 className='col-md-6 col-sm-12 text-muted text-sm-left text-md-right text-small p-1 '>Time: {Date}</h6>
+    	 	 <h6 className='col-md-6 col-sm-12 text-muted text-sm-left text-md-right text-small p-1 '>Time: {Date}</h6>
     	
     	 </div>
-    	  <div className='row col-12'> 
-    	  <h6 className='col-4 text-muted text-small m-1 row  align-items-center'>Heart Rate:<h4 className='text-dark  m-1 align-bottom text-danger'>{this.state.ecg_hr} </h4> BPM</h6>
+    	 <div className='row col-12'> 
+    	  	<h6 className='col-4 text-muted text-small m-1 row  align-items-center'>Heart Rate:<h4 className='text-dark  m-1 align-bottom text-danger'>{this.state.ecg_hr} </h4> BPM</h6>
     	 </div>
     	 <div className='row col-12'> 
-    	  <h6 className='col-12 text-muted text-small m-1 row  align-items-center'>Result:<h4 className='text-dark  m-1 align-bottom text-warning'>{(this.state.result == "Arrhythmia present")?("This ECG contains symptomps of Arrhythmia"):("This ECG does not contains symptomps of Arrhythmia")}</h4></h6>
+    	  	<h6 className='col-12 text-muted text-small m-1 row  align-items-center'>Result:<h4 className='text-dark  m-1 align-bottom text-warning'>{(this.state.result == "Arrhythmia present")?("This ECG contains symptomps of Arrhythmia"):("This ECG does not contains symptomps of Arrhythmia")}</h4></h6>
     	 </div>
     	<div className='overflow-auto ' >
 	        <div className='p-2' style={{ width:'100%', height:'25rem'}}> 
 	          
-  <CanvasJSChart options = {options}  style={{ width:'100%', height:'22rem'}}
-            />
-	          </div>
+  			<CanvasJSChart options = {options}  style={{ width:'100%', height:'22rem'}}/>
+	  	</div>
       	  </div>
       	  
     	
